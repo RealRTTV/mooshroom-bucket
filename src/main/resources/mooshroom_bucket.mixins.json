@@ -1,0 +1,1 @@
+{"required":true,"minVersion":"0.8","package":"ca.rttv.mooshroom.bucket.mixin","compatibilityLevel":"JAVA_17","mixins":["F","X"],"client":[],"injectors":{"defaultRequire":1}}
